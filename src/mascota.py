@@ -1,7 +1,6 @@
 import json
 import time
 import pygame
-# Luego, en `mascota.py`:
 from sprite import SpritesMascota
 
 BLANCO = (255, 255, 255)
